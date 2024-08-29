@@ -66,7 +66,7 @@ shutil
 <br><br>
 **Installation**
 
-Clone the repository:git clone https://github.com/yourusername/oral-cancer-prediction.git
+Clone the repository:git clone https:https://github.com/Thejas84/Oral_cancer_prediction
 
 Navigate to the project directory:cd oral-cancer-prediction
 
